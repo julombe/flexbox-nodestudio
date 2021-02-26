@@ -84,4 +84,5 @@ header li:last-child {
     background-image: url('../assets/hero.jpg');
     background-size: cover;
     min-height: 100vh; /*equivale a 100%*/
+    color: #fff;
 }
