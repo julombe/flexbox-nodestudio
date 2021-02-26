@@ -33,6 +33,7 @@ header {
     position: absolute;
     top: 0;
     left: 0;
+    background-color: #fff;
     
 
     display: flex;
@@ -74,4 +75,13 @@ header li:last-child {
     header img {
         margin-bottom: 15px;
     }
+}
+
+
+/*=== HERO ===*/
+
+.hero {
+    background-image: url('../assets/hero.jpg');
+    background-size: cover;
+    min-height: 100vh; /*equivale a 100%*/
 }
