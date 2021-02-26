@@ -85,4 +85,9 @@ header li:last-child {
     background-size: cover;
     min-height: 100vh; /*equivale a 100%*/
     color: #fff;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
