@@ -91,3 +91,21 @@ header li:last-child {
     align-items: center;
     flex-direction: column;
 }
+
+.hero h1 {
+    font-size: 3.2rem;
+    margin-bottom: 15px;
+}
+
+.hero h3 {
+    font-size: 2rem;
+    margin-bottom: 15px;
+}
+
+.hero .btn {
+    background-color: #fff;
+    border-radius: 4px;
+    color: #191c03;
+    padding: 20px 50px;
+    text-transform: uppercase;
+}
