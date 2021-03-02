@@ -134,9 +134,17 @@ header li:last-child {
 .conheca-o-hotel h3 {
     font-size: 2rem;
     margin-bottom: 35px;
+    color: #191c03;
 }
 
 .conheca-o-hotel p {
     max-width: 800px;
     margin-bottom: 35px;
+    color: #191c03;
+}
+
+.conheca-o-hotel hr {
+    width: 200px;
+    height: 2px;
+    background-color: #191c03;
 }
