@@ -120,3 +120,13 @@ header li:last-child {
         font-size: 1.5rem;
     }
 }
+
+/*===conheça o hotel===*/
+
+.conheca-o-hotel {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    padding: 100px 50px;
+}
