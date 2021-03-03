@@ -351,3 +351,7 @@ footer ul li a {
     color: #c3c63b; /*verde mais claro. irei colocr no root como light-green*/
     font-size: 2rem;
 }
+
+footer p {
+    color: #c3c63b;
+}
