@@ -323,3 +323,18 @@ header li:last-child {
         margin-bottom: 15px;
     }
 }
+
+
+/*=== footer ===*/
+
+footer {
+    display: flex;
+    flex-direction: column;
+    background-color: #191c03; /*verde mais escuro. iremos colocar no root como dark-green*/
+    padding: 50px 0px;
+}
+
+footer ul {
+    display: flex;
+    margin-bottom: 25px;
+}
