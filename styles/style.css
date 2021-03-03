@@ -216,3 +216,34 @@ header li:last-child {
     margin-bottom: 70px;
     border: none;
 }
+
+.caracteristicas .grid {
+    width: 100%;
+    display: flex;
+}
+
+
+.caracteristicas .grid li {
+    padding: 0 30px;
+    text-align: center;
+}
+
+
+.caracteristicas .grid li i {
+    font-size: 50px;
+    margin: 30px;
+    color: #c3c63b;
+    margin-bottom: 30px;
+}
+
+
+.caracteristicas .grid li h4 {
+    font-size: 1.5rem;
+    color: #c3c63b;
+    margin-bottom: 30px;
+}
+
+
+.caracteristicas .grid li p {
+    color: #fff;
+}
