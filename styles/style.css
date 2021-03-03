@@ -303,4 +303,5 @@ header li:last-child {
     border: 1px solid #c3c63b;
     border-radius: 4px;
     margin-right: 15px;
+    flex: 1; /*irá ocupar toda largura disponível*/
 }
