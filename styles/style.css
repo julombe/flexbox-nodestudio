@@ -265,3 +265,25 @@ header li:last-child {
     align-items: center;
     padding: 100px 50px;
 }
+
+.newsletter h3 {
+    font-size: 2rem;
+    margin-bottom: 35px;
+    text-align: center;
+    color: #fff;
+}
+
+.newsletter p {
+    max-width: 800px;
+    margin-bottom: 35px;
+    text-align: center;
+    color: #fff;
+}
+
+.newsletter hr {
+    width: 200px;
+    height: 2px;
+    background-color: #fff;
+    margin-bottom: 70px;
+    border: none;
+}
