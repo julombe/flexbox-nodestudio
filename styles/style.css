@@ -247,3 +247,12 @@ header li:last-child {
 .caracteristicas .grid li p {
     color: #fff;
 }
+
+
+
+
+@media (max-width: 800px) {
+    .caracteristicas .grid {
+        flex-direction: column;
+    }
+}
