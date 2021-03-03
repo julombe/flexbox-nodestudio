@@ -270,20 +270,20 @@ header li:last-child {
     font-size: 2rem;
     margin-bottom: 35px;
     text-align: center;
-    color: #fff;
+    color: #c3c63b;
 }
 
 .newsletter p {
     max-width: 800px;
     margin-bottom: 35px;
     text-align: center;
-    color: #fff;
+    color: #c3c63b;
 }
 
 .newsletter hr {
     width: 200px;
     height: 2px;
-    background-color: #fff;
+    background-color:#c3c63b;
     margin-bottom: 70px;
     border: none;
 }
