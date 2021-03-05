@@ -21,3 +21,19 @@
         font-size: 1.5rem;
     }
 }
+
+/*===conheça o hotel===*/
+
+@media (max-width: 700px) {
+    .conheca-o-hotel .grid li.small, .conheca-o-hotel .grid li.large {
+        flex-basis: 100%;
+    }
+}
+
+/*=== caracteristicas ===*/
+
+@media (max-width: 850px) {
+    .caracteristicas .grid {
+        flex-direction: column;
+    }
+}

@@ -166,11 +166,7 @@ header li:last-child {
     flex-basis: 60%;
 }
 
-@media (max-width: 700px) {
-    .conheca-o-hotel .grid li.small, .conheca-o-hotel .grid li.large {
-        flex-basis: 100%;
-    }
-}
+
 
 
 /*=== caracteristicas ===*/
@@ -241,11 +237,7 @@ header li:last-child {
 
 
 
-@media (max-width: 850px) {
-    .caracteristicas .grid {
-        flex-direction: column;
-    }
-}
+
 
 /*=== newsletter ===*/
 
