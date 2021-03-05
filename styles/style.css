@@ -1,6 +1,10 @@
 
 /*=== estilos globais ===*/
 
+:root {
+    --dark-green : #191c03;
+}
+
 * {
     margin: 0;
     padding: 0;
