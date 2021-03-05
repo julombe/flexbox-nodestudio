@@ -2,7 +2,8 @@
 /*=== estilos globais ===*/
 
 :root {
-    --dark-green : #191c03;
+    --dark-green: #191c03;
+    --ligth-green: #c3c63b; 
 }
 
 * {
