@@ -73,14 +73,6 @@ header li:last-child {
     margin-right: 0;
 }
 
-@media (max-width: 700px) {
-    header {
-        flex-direction: column;
-    }
-    header img {
-        margin-bottom: 15px;
-    }
-}
 
 
 /*=== HERO ===*/
